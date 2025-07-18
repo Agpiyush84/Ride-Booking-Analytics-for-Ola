@@ -1,4 +1,4 @@
-# 🚖 Ride Booking Analytics Dashboard – Ola (Simulated)
+# 🚖 Ride Booking Analytics Dashboard For Ola 
 
 This project presents a data-driven analytical dashboard and reporting solution for ride-booking trends at Ola. Using a combination of **SQL**, **Power BI**, and **Excel**, the analysis simulates and visualizes trends across 100,000+ rides, customer behavior, cancellation reasons, and revenue streams.
 
