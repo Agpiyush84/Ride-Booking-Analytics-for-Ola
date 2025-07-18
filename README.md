@@ -28,7 +28,8 @@ Key focus areas:
 ## 📁 Files Included
 
 - `SQL Queries.pdf` – Set of 10+ SQL queries  
-- `Bookings.xlsx` – Simulated dataset (100,000+ rides)  
+- `Bookings--.xlsx` – Simulated dataset (100,000+ rides)
+- `bookings.csv` – Cleaned dataset (100,000+ simulated ride records) 
 - `Ola Ride Booking Analytics.pbix` – Power BI file with 5 dashboard pages  
 - `README.md` – Project overview and documentation  
 
